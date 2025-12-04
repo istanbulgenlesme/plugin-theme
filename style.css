@@ -1,13 +1,15 @@
-/*
-Theme Name: PluginHub Pro
-Theme URI:  https://example.com/pluginhub-pro
-Author:     PluginHub
-Author URI: https://example.com
-Description: Minimal, clean directory theme for plugin extensions.
-Version:    1.0.0
-Text Domain: pluginhub-pro
-Tags: blog, directory, plugins
-*/
+/**
+ * Theme Name: PluginHub Pro
+ * Theme URI:  https://example.com/pluginhub-pro
+ * Author:     PluginHub
+ * Author URI: https://example.com
+ * Description: Minimal, clean directory theme for plugin extensions.
+ * Version:    1.0.0
+ * Text Domain: pluginhub-pro
+ * Tags: blog, directory, plugins
+ * License: GNU General Public License v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ */
 
 *,
 *::before,
@@ -198,7 +200,7 @@ a:hover{text-decoration:underline;}
 .ph-table th,
 .ph-table td{
   padding:8px 10px;
-  border:1px solid #e5e7eb;
+  border:1px solid #e5e7eB;
   text-align:left;
 }
 .ph-table th{
